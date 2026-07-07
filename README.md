@@ -47,9 +47,8 @@ Raw business data is rarely clean. Dates come in five different formats, categor
 | Currency-formatted Unit Price | Regex to strip symbols/text while preserving decimal points, then converted to numeric |
 | Missing values | Filled with sensible defaults/derived values (e.g. `Total Sales = Quantity × Unit Price`) instead of dropping rows outright |
 
-Full step-by-step methodology and code is in cleaning.ipynb.
+Full step-by-step methodology and code is in [cleaning.ipynb](https://github.com/mirzabaig2024/Sales-Data-Cleaning-project/blob/main/cleaning.ipynb)
 
----
 
 ## 💡 Key decisions worth highlighting
 
@@ -90,6 +89,6 @@ Full step-by-step methodology and code is in cleaning.ipynb.
 
 ## 📄 Full Report
 
-A detailed write-up with methodology, before/after tables, and challenges faced is available in Sales_Data_Cleaning_Report.docx
+A detailed write-up with methodology, before/after tables, and challenges faced is available in [Sales_Data_Cleaning_Report.docx](https://github.com/mirzabaig2024/Sales-Data-Cleaning-project/blob/main/Sales_Data_Cleaning_Report.docx)
 
 
